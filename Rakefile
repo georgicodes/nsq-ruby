@@ -17,8 +17,8 @@ require 'jeweler'
 require_relative 'lib/version'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
-  gem.name = "nsq-ruby"
-  gem.version = Nsq::Version::STRING
+  gem.name = "georgi-nsq-ruby"
+  gem.version = 0.1.0
   gem.homepage = "http://github.com/wistia/nsq-ruby"
   gem.license = "MIT"
   gem.summary = %Q{Ruby client library for NSQ}
